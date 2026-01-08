@@ -3,5 +3,5 @@ Pelajari Github
 Java script dan JSON
 Membuat API Get web base dengan github atau yang lain
 belajar promt AI untuk aplikasi
-catat email untuk kirim cerpen
 membuat laporan monev lebih mudah
+catat email yang bisa untuk kirim email
